@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.virtualpairprogrammers.TestInMemoryOpsOnMultipleVehicles" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-11-15T13:31:52" hostname="williams-MacBook-Pro-2.local" time="0.006">
+  <properties/>
+  <testcase name="testGettingAllReportsButWithAVeryLongAgoSinceReturnsTheLatestReportForEach" classname="com.virtualpairprogrammers.TestInMemoryOpsOnMultipleVehicles" time="0.0"/>
+  <testcase name="testGettingAllReportsWithNoSinceReturnsAllLatestReports" classname="com.virtualpairprogrammers.TestInMemoryOpsOnMultipleVehicles" time="0.0"/>
+  <testcase name="testGettingAllReportsButWithAVeryRecentCutOffDateReturnsNothing" classname="com.virtualpairprogrammers.TestInMemoryOpsOnMultipleVehicles" time="0.001"/>
+  <testcase name="testGettingAllReportsWithACutOffDateTheMeansNoUpdatesForVehicle1" classname="com.virtualpairprogrammers.TestInMemoryOpsOnMultipleVehicles" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
